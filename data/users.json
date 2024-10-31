@@ -1,0 +1,20 @@
+[
+  { "username": "user1", "password": "$2a$10$EXAMPLEHASHEDPASSWORD" },
+  { "username": "user2", "password": "$2a$10$EXAMPLEHASHEDPASSWORD" },
+  {
+    "username": "testuser",
+    "password": "$2a$10$yF5F2CCuHjipWMe2Zgxps.IDgDW1eCWkKnkax6WwgIMX1TNC86UV."
+  },
+  {
+    "username": "Hugo8814",
+    "password": "$2a$10$Qa1AoniXIAbE2y9FX8j0Qe4RhhkhJ4EtGbXCrmp4tSgkzcR/OENGO"
+  },
+  {
+    "username": "test1234",
+    "password": "$2a$10$onIVPb6A6zDKsu49H5s7gOheI9tLjFm/i3T3MP3mrSavVdjzsZy1a"
+  },
+  {
+    "username": "dan123",
+    "password": "$2a$10$ittQ3UCatN/so8TQjYfBkeMDUKO68Jpg7M6eLdH4bqKZti4XH3nJK"
+  }
+]

@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv://hugopereira8814:U1yIdD7AnqxE70cE@cluster0.sikyi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+SECRET_KEY=yourSuperSecretKey
+
